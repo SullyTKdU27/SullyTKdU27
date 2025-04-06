@@ -8,7 +8,7 @@
 ## 🏆 Completed Projects
 - **Enhanced Stock Trader** - ML-powered stock price prediction tool using Random Forest Regression with technical indicators, backtesting, and portfolio simulation
 - **Blue Lock Inspire** - Football simulation web game with player creation, training system, match simulation, and career progression built with HTML, CSS, and JavaScript
-- **Web Tourism App** (2022-2023) - A-Level project creating a solution that web-scrapes weather, location, news, hotels and restaurant data for tourists
+- **Web Tourism App** (Coursework Project 2022-2023) - A-Level project creating a solution that web-scrapes weather, location, news, hotels and restaurant data for tourists
 - **Fruit Merge Grid Game** (Aug 2024) - Web-based puzzle game inspired by 2048 and Suika with multiple difficulty levels and high score persistence
 - **Pokemon Battle Simulator** (Oct 2024) - Text-based battle simulator in C++ featuring team management, difficulty levels, and statistics tracking
 
